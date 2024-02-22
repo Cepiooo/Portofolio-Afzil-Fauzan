@@ -1,0 +1,1123 @@
+
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.body {
+    background-color: #F3EEE0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 800px; */
+}
+
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.header {
+    background: #f3eee0;
+    height: 110px;
+    box-shadow: 0px -2px 25px 0px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 500;
+}
+
+.left-section {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.right-section {
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.vector {
+    width: 40px;
+    height: 40px;
+}
+
+.afzil-fauzan {
+    color: #000000;
+    font-family: 'Poppins-Bold', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    left: 124px;
+    top: calc(50% - 22px);
+    margin-left: 20px;
+}
+
+.about-me-H {
+    color: #000000;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    left: 920px;
+    top: calc(50% - 21px);
+    width: 119px;
+    height: 32px;
+    margin-left: 20px;
+}
+
+.home-H {
+    color: #000000;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    left: 784px;
+    top: calc(50% - 21px);
+    width: 77px;
+    height: 32px;
+}
+
+.contact-H {
+    color: #000000;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    left: 1388px;
+    top: calc(50% - 21px);
+    width: 102px;
+    height: 32px;
+    margin-left: 20px;
+}
+
+.portofolio-H {
+    color: #000000;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    left: 1211px;
+    top: calc(50% - 21px);
+    width: 118px;
+    height: 32px;
+    margin-left: 20px;
+}
+
+.skill-H {
+    color: #000000;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    left: 1098px;
+    top: calc(50% - 21px);
+    width: 54px;
+    height: 32px;
+    margin-left: 20px;
+}
+
+
+.bggit {
+    background: #F3EEE0;
+    border: 3px;
+    border-color: #ffac00;
+    border-style: solid;
+    border-radius: 50px;
+    width: 200px;
+    height: 65px;
+    margin-left: 20px;
+    color: #fab833;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.bggit:hover{
+    background-color: #ffac00;
+    color: #f3eee0;
+}
+
+.bggit:active{
+    opacity: 0.5;
+}
+
+
+
+.icon-header-left-H{
+    height: 33px;
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.icon-header-left-P{
+    height: 33px;
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.icon-header-left-S{
+    height: 33px;
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.icon-header-left-PP{
+    height: 33px;
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.icon-header-left-C{
+    height: 33px;
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.icon-header-left1 {
+    height: 37px;
+}
+
+
+
+
+.icon-header-left-H:hover {
+    height: 40PX;
+}
+
+.icon-header-left-H:active {
+    height: 45px;
+}
+
+.icon-header-left-P:hover {
+    height: 40PX;
+}
+
+.icon-header-left-P:active {
+    height: 45px;
+}
+
+
+.icon-header-left-S:hover {
+    height: 40PX;
+}
+
+.icon-header-left-S:active {
+    height: 45px;
+}
+
+
+.icon-header-left-PP:hover {
+    height: 40PX;
+}
+
+.icon-header-left-PP:active {
+    height: 45px;
+}
+
+
+.icon-header-left-C:hover {
+    height: 40PX;
+}
+
+.icon-header-left-C:active {
+    height: 45px;
+}
+
+
+
+.header-left {
+    background: #fab833;
+    border-radius: 35px;
+    width: 70px;
+    height: 550px;
+    position: fixed;
+    z-index: 400;
+    left: 35px;
+    bottom: 0;
+    top: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-evenly
+    
+}
+
+
+
+
+
+
+
+.Home {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 150px;
+    width: 1400px;
+}
+
+.home-left {
+    margin-left: 100px;
+}
+
+.home-left1 {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.home-left2 {
+    display: flex;
+    margin-top: 0;
+}
+
+.home-right {
+    margin-left: 10px;
+}
+
+.hi-there {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    left: 336px;
+    top: 330px;
+    margin-bottom: 0;
+}
+
+.a-m {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    left: 335px;
+    top: 405px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.afzil {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    left: 538px;
+    top: 405px;
+    margin-top: 0;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+.BGprofile{
+    position: relative;
+    background: #fab833;
+    border-radius: 50%;
+    z-index: -5;
+    width: 350px;
+    height: 350px;
+    top: 100px;
+}
+
+.caption-home {
+     color: #616161;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    left: 336px;
+    top: 545px;
+    width: 720px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    line-height: 25px;
+}
+
+.profile {
+    position: relative;
+    height: 500px;
+    left: 60px;
+    top: -100px;
+}
+
+
+.backroundUIUX {
+    position: relative;
+    z-index: -2;
+    left: 0px;
+    top: -30px;
+}
+
+.ui-ux-design-and-web-developer2 {
+    color: #ffffff;
+    font-family: 'Poppins-Medium', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-top: 10px ;
+}
+
+
+
+
+
+
+
+
+
+.About {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    left: 0;
+    height: 1000px;
+}
+
+.judul-about {
+    display: flex;
+    flex-direction: row;
+}
+
+.strukjudulabout {
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+
+
+.about1-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    margin-top: 100px;
+}
+
+.text-about1 {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.strukabout-judul {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px ;
+    margin-left: 200px;
+}
+
+.struktextabout {
+    margin-left: 220px;
+}
+
+.struktextabout1 {
+    margin-left: 120px;
+}
+
+.about-me {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 55px;
+    font-weight: 800;
+}
+
+.BG-About {
+    height: 700px;
+    width: 1470px;
+    z-index: -5;
+    position: relative;
+    top: -500px;
+}
+
+.BG-About-profile {
+    background: #fab833;
+    border-radius: 23px;
+    height: 450px;
+    width: 300px;
+    position: relative;
+    z-index: 1;
+    top: 0px;
+    left: 160px;
+    margin-right: 20px;
+}
+
+.profileAbout {
+    height: 500px;
+    z-index: 10;
+    top: 0px;
+    left: -100px;
+    position: relative;
+}
+
+.text-aboutme0 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 400px;
+}
+
+.text-aboutme {
+    left: 500px;
+    margin-top: 0px;
+    height: 400px;
+}
+
+
+.who-am-i {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.hello {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    margin: 0;
+}
+
+
+.caption-aboutme {
+    color: #616161;
+    text-align: left;
+    font-family: 'Poppins-Medium', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    width: 850px;
+    line-height: 25px;
+    margin-top: 25px;
+}
+
+.strukabout {
+    height: 5px;
+}
+
+.about-deskpsi-contact {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.aboutIG {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.aboutWA {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 200px;
+}
+
+.IG-about {
+    height: 50px;
+}
+
+.WA-about {
+    height: 50px;
+}
+
+
+.-afzil-fauzan {
+    color: #636363;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+._62-822-9131-2064 {
+    color: #636363;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+.Skill {
+    margin-top: 50pxpx;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.skill0-1 {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 55px;
+    font-weight: 800;
+    position: relative;
+}
+
+.ui-ux-design {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.skill-judul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+.strukjudulskill {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.skill-deskripsi {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+}
+
+.UI-UX {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.ui-ux-design {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.strkskillsdkrpsi {
+    height: 7px;
+}
+
+.imgdeskripsiskillicon {
+    height: 90px;
+}
+
+.imgdeskripsiskill {
+    height: 280px;
+}
+
+
+
+
+
+
+
+
+
+
+.portofoloO {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.portofoloO1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.strukjudulportfolio1 {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.BG-portooflio {
+    height: 2750px;
+    position: absolute;
+    margin-top: 150px;
+    z-index: -5;
+}
+
+.judul-porfolio {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 55px;
+    font-weight: 800;
+}
+
+.portofoloO2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.portofoloO3 {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+
+
+.freya {
+    z-index: 5;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #fab833;
+    border-width: 10px;
+    height: 450px;
+    position: relative;
+    z-index: -1;
+    left: 30px;
+    bottom: 40px;
+}
+
+.freya1 {
+    z-index: 5;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #fab833;
+    border-width: 10px;
+    height: 450px;
+    position: relative;
+    z-index: -1;
+    right: 50px;
+    bottom: 40px;
+}
+
+
+
+.SHOW-MORE-porto1 {
+    background: #fab833;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 5px;
+    width: 200px;
+    height: 70px;
+    position: relative;
+    z-index: 1;
+    left: 50px;
+    top: 120px;
+    color: #ffffff;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.SHOW-MORE-porto2 {
+    background: #fab833;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 5px;
+    width: 200px;
+    height: 70px;
+    position: relative;
+    z-index: 1;
+    right: 50px;
+    top: 120px;
+    color: #ffffff;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.SHOW-MORE-porto1:hover {
+    transition: 200ms;
+    width: 220px;
+    height: 80px;
+    font-size: 15px;
+}
+
+.SHOW-MORE-porto1:active {
+    opacity: 0.5;
+}
+
+.SHOW-MORE-porto2:hover {
+    transition: 200ms;
+    width: 220px;
+    height: 80px;
+    font-size: 15px;
+}
+
+.SHOW-MORE-porto2:active {
+    opacity: 0.5;
+}
+
+
+
+.BG-gif-porto1 {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 10px;
+    height: 450px;
+    width: 250px;
+    position: relative;
+    z-index: -2;
+    top: 40px;
+    left: 100px;
+}
+
+.BG-gif-porto2 {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 10px;
+    height: 450px;
+    width: 250px;
+    position: relative;
+    z-index: -2;
+    top: 40px;
+    right: 100px;
+}
+
+
+
+.struk-text-about {
+    width: 27px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+
+.font-porto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ui-ux-porto {
+    color: #000000;
+    text-align: center;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.font-UIUX-porto {
+    color: #000000;
+    text-align: center;
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    width: 600px;
+    margin-bottom: 50px;
+    line-height: 25px;
+}
+
+.TAG-UIUX-port {
+    color: #000000;
+    text-align: center;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    position: relative;
+    width: 600px;
+}
+
+
+
+
+
+
+
+
+.Contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 300px;
+    justify-content: space-between;
+}
+
+.contact-up {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 90px;
+}
+
+.contact-left {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-left: 200px;
+}
+
+.contact-judul {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.let-s-discuss-your-project {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+
+.name-contact {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.input-name-contact {
+    background: #f4e5c6;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #fab833;
+    border-width: 0px 0px 5px 0px;
+    height: 40px;
+    width: 800px;
+    font-size: 22px;
+    font-family: 'Poppins-Light', sans-serif;
+    margin-bottom: 40px;
+}
+
+.input-name-contact::placeholder {
+    color: rgba(0, 0, 0, 0.43);
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 15px;
+    opacity: 0.5;
+    padding-left: 15px;
+}
+
+.Email-contact {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.input-email-contact {
+    background: #f4e5c6;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #fab833;
+    border-width: 0px 0px 5px 0px;
+    height: 40px;
+    width: 800px;
+    font-size: 22px;
+    font-family: 'Poppins-Light', sans-serif;
+    margin-bottom: 40px;
+}
+
+.input-email-contact::placeholder {
+    color: rgba(0, 0, 0, 0.43);
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 15px;
+    opacity: 0.5;
+    padding-left: 15px;
+}
+
+.Massage-contact {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.input-massage-contact {
+    background: #f4e5c6;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #fab833;
+    border-width: 0px 0px 5px 0px;
+    height: 100px;
+    width: 800px;
+    font-size: 22px;
+    font-family: 'Poppins-Light', sans-serif;
+    margin-bottom: 30px;
+}
+
+.input-massage-contact::placeholder {
+    color: rgba(0, 0, 0, 0.43);
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 15px;
+    opacity: 0.5;
+    padding-left: 15px;
+}
+
+.SEND-contact {
+    background: #fab833;
+    border-radius: 10px;
+    height: 60px;
+    width: 220px;
+    border: none;
+    margin: 0;
+    margin-left: 280px;
+
+}
+
+.send-contact-text {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Poppins-Bold', sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.contact-posision {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 92rem;
+}
+
+
+.BG-right-contact {
+    background: #ffac00;
+    width: 296px;
+    height: 715px;
+    position: absolute;
+    z-index: -10;
+    top: -100px;
+    right: -20px;
+    bottom: 0;
+}
+
+.BG-contact-right-up {
+    height: 560px;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    bottom: 0;
+    z-index: -5;
+}
+
+.contact-right {
+    position: relative;
+    right: 0;
+    top: 100px;
+    left: -20px;
+    height: 500px;
+}
+
+.Contact-us {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 10px;
+    position: relative;
+    width: 200px;
+}
+
+.phone-contact {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    width: 100px;
+}
+
+.namber {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: -15px;
+    margin-left: 10px;
+    width: 300px;
+    position: relative;
+    width: 200px;
+}
+
+.namber1 {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-left: 10px;
+    margin-top: -15px;
+    width: 280px;
+    line-height: 20px;
+    position: relative;
+}
+
+.more-info-contact {
+    color: #ffffff;
+    width: 100px;
+    text-align: left;
+    font-family: 'Poppins-Medium', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    position: relative;
+    top: 160px;
+    left:80px;
+    }
+
+.IG-contact {
+    width: 35px;
+    height: 35px;
+    position: relative;
+}
+
+.YT-contact {
+    width: 40px;
+    height: 40px;
+    position: relative;
+}
+
+.TW-contact {
+    width: 35px;
+    height: 35px;
+    position: relative;
+}
+
+.icon-contact-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: relative;
+    top: 150px;
+    left: 50px;
+}

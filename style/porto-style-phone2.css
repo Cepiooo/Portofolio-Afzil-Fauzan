@@ -1,0 +1,1114 @@
+
+
+@media (max-width: 545px) {
+    
+    .header {
+        background: #f3eee0;
+        height: 25px;
+        box-shadow: 0px -2px 25px 0px rgba(0, 0, 0, 0.25);
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 500;
+    }
+
+    .left-section {
+        display: flex;
+        align-items: center;
+        margin-left: 5px;
+    }
+    
+    .right-section {
+        display: flex;
+        align-items: center;
+        margin-right: 5px;
+    }
+    
+       
+ 
+    .vector {
+        width: 10px;
+        height: 10px;
+    }
+    
+    .afzil-fauzan {
+        color: #000000;
+        font-family: 'Poppins-Bold', sans-serif;
+        font-size: 3px;
+        font-weight: 700;
+        left: 10px;
+        top: calc(50% - 22px);
+        margin-left: 3px;
+    }
+    
+    .about-me-H {
+        color: #000000;
+        font-family: 'Poppins-Regular', sans-serif;
+        font-size: 3px;
+        font-weight: 400;
+        left: 920px;
+        top: calc(50% - 21px);
+        width: 16px;
+        height: 3px;
+        margin: 0px;
+    }
+    
+    .home-H {
+        color: #000000;
+        font-family: 'Poppins-Regular', sans-serif;
+        font-size: 3px;
+        font-weight: 400;
+        left: 784px;
+        top: calc(50% - 21px);
+        width: 12px;
+        height: 3px;
+        margin: 0px;
+    }
+    
+    .contact-H {
+        color: #000000;
+        font-family: 'Poppins-Regular', sans-serif;
+        font-size: 3px;
+        font-weight: 400;
+        left: 1388px;
+        top: calc(50% - 21px);
+        width: 10px;
+        height: 3px;
+        margin: 0px;
+    }
+    
+    .portofolio-H {
+        color: #000000;
+        font-family: 'Poppins-Regular', sans-serif;
+        font-size: 3px;
+        font-weight: 400;
+        left: 1211px;
+        top: calc(50% - 21px);
+        width: 15px;
+        height: 3px;
+        margin: 0px;
+    }
+    
+    .skill-H {
+        color: #000000;
+        font-family: 'Poppins-Regular', sans-serif;
+        font-size: 3px;
+        font-weight: 400;
+        left: 1098px;
+        top: calc(50% - 21px);
+        width: 9px;
+        height: 3px;
+        margin: 0px;
+    }
+
+    .button-getintouch {
+        height: 26px;
+    }
+    
+    
+    .bggit {
+        background: #F3EEE0;
+        border: 0.5px;
+        border-color: #ffac00;
+        border-style: solid;
+        border-radius: 50px;
+        width: 30px;
+        height: 10px;
+        margin-right: 5px;
+        margin-left: 10px;
+        padding-left: 4px;
+        color: #ffac00;
+        font-family: 'Poppins-SemiBold', sans-serif;
+        font-size: 3px;
+        font-weight: 100;
+        transition: 200ms;
+        cursor: pointer;
+    }
+    
+
+    .right-section {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 0;
+    }
+    
+    .icon-header-left-H {
+        height: 6px;
+    }
+
+    .icon-header-left-P {
+        height: 6px;
+    }
+    
+    .icon-header-left-S {
+        height: 6px;
+    }
+    
+    .icon-header-left-PP {
+        height: 6px;
+    }
+    
+    .icon-header-left-C {
+        height: 6px;
+    }
+    
+
+    
+
+    .icon-header-left-H:hover {
+        height: 10PX;
+    }
+
+    .icon-header-left-H:active {
+        height: 13px;
+    }
+
+    .icon-header-left-P:hover {
+        height: 10PX;
+    }
+
+    .icon-header-left-P:active {
+        height: 13px;
+    }
+
+
+    .icon-header-left-S:hover {
+        height: 10PX;
+    }
+
+    .icon-header-left-S:active {
+        height: 13px;
+    }
+
+    .icon-header-left-PP:hover {
+        height: 10PX;
+    }
+
+    .icon-header-left-PP:active {
+        height: 13px;
+    }
+
+
+    .icon-header-left-C:hover {
+        height: 10PX;
+    }
+
+    .icon-header-left-C:active {
+        height: 13px;
+    }
+
+
+
+    
+    .icon-header-left1 {
+        width: 5px;
+        height: 7px;
+    }
+    
+    .header-left {
+        background: #fab833;
+        border-radius: 35px;
+        width: 14px;
+        height: 120px;
+        position: fixed;
+        z-index: 400;
+        left: 10px;
+        bottom: 0;
+        top: 27px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content:space-between
+        
+    }
+
+            
+.Home {
+display: flex;
+flex-direction: row;
+justify-content: end;
+margin-top: 20px;
+width: 270px;
+}
+
+.home-left {
+margin-left:70px;
+}
+
+.home-left1 {
+display: flex;
+flex-direction: column;
+align-items: start;
+}
+
+.home-left2 {
+display: flex;
+margin-top: 0;
+}
+
+.home-right {
+margin-left: 20px;
+}
+
+.hi-there {
+color: #000000;
+text-align: left;
+font-family: 'Poppins-ExtraBold', sans-serif;
+font-size:8px;
+font-weight: 800;
+left: 336px;
+top: 330px;
+margin-bottom: 0;
+}
+
+.a-m {
+color: #000000;
+text-align: left;
+font-family: 'Poppins-ExtraBold', sans-serif;
+font-size: 13px;
+font-weight: 800;
+left: 335px;
+top: 405px;
+margin-top: 0;
+margin-right: 10px;
+margin-bottom: 5px;
+}
+
+.afzil {
+color: #fab833;
+text-align: left;
+font-family: 'Poppins-ExtraBold', sans-serif;
+font-size: 13px;
+font-weight: 800;
+left: 538px;
+top: 405px;
+margin: 0;
+}
+
+.BGprofile{
+background: #fab833;
+border-radius: 50%;
+z-index: -5;
+width: 50px;
+height:50px;
+}
+
+.caption-home {
+color: #616161;
+text-align: left;
+font-family: 'Poppins-Regular', sans-serif;
+font-size: 4px;
+font-weight: 200;
+left: 336px;
+top: 545px;
+width: 170px;
+margin-top: 0;
+margin-bottom: 6px;
+line-height: 8px;
+}
+
+.profile {
+height: 80px;
+margin-left: 0px;
+}
+
+.backroundUIUX {
+    position: relative;
+    width: 70px;
+    z-index: -2;
+    left: 0px;
+    top: -11px;
+}
+
+
+.ui-ux-design-and-web-developer2 {
+color: #ffffff;
+font-family: 'Poppins-Medium', sans-serif;
+font-size: 3px;
+font-weight: 500;
+margin: 0;
+margin-left: 3px;
+}
+
+    
+
+
+
+
+
+
+.About {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top:25px;
+left: 0;
+}
+
+.judul-about {
+display: flex;
+flex-direction: row;
+}
+
+.strukjudulabout {
+width: 40px;
+margin-left: 10px;
+margin-right: 10px;
+
+}
+
+.text-about1 {
+display: flex;
+flex-direction: row;
+align-items: end;
+}
+
+.strukabout-judul {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 0px ;
+margin-left:20px;
+margin-bottom: 15px
+}
+
+.struktextaboutw {
+width: 0;
+height: 5px;
+margin: 0;
+}
+
+.struktextabout {
+width: 50px;
+height: 1.4px;
+margin-left: 80px;
+}
+
+.struktextabout1 {
+width: 50px;
+height: 1.4px;
+margin-left: 40px;
+}
+
+.struktextabout2 {
+width: 50px;
+height: 1.4px;
+
+}
+
+
+.about-me {
+color: #000000;
+text-align: left;
+font-family: 'Poppins-ExtraBold', sans-serif;
+font-size: 10px;
+font-weight: 800;
+}
+
+.BG-About {
+height: 170px;
+width: 290px;
+z-index: -5;
+position: absolute;
+top: 155px;
+}
+
+.BG-About-profile {
+background: #fab833;
+border-radius: 10px;
+height: 100px;
+width: 55px;
+position: absolute;
+z-index: 1;
+left: 30px;
+top: 170px;
+}
+
+.profileAbout {
+height: 100px;
+z-index: 10;
+top: 180px;
+left: 33px;
+position: absolute;
+}
+
+.text-aboutme {
+left: 500px;
+margin-left: 90px;
+margin-top: 10px;
+}
+
+
+.who-am-i {
+color: #000000;
+text-align: left;
+font-family: 'Poppins-SemiBold', sans-serif;
+font-size: 6px;
+font-weight: 600;
+margin: 0;
+}
+
+.hello {
+color: #fab833;
+text-align: left;
+font-family: 'Poppins-ExtraBold', sans-serif;
+font-size: 8px;
+font-weight: 800;
+margin: 0;
+}
+
+
+.caption-aboutme {
+color: #616161;
+text-align: left;
+font-family: 'Poppins-Medium', sans-serif;
+font-size: 5px;
+font-weight: 100;
+width: 200px;
+line-height: 7px;
+margin-top: 5px;
+margin-bottom: 0;
+}
+
+.strukabout {
+height: 1.1px;
+}
+
+.about-deskpsi-contact {
+display: flex;
+flex-direction: row;
+margin-top: 0px;
+}
+
+.aboutIG {
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+
+.aboutWA {
+display: flex;
+flex-direction: row;
+align-items: center;
+margin-left: 70px;
+}
+
+.IG-about {
+height: 10px;
+}
+
+.WA-about {
+height: 10px;
+}
+
+
+.-afzil-fauzan {
+color: #636363;
+text-align: left;
+font-family: 'Poppins-SemiBold', sans-serif;
+font-size: 5px;
+font-weight: 600;
+margin-left: 5px;
+}
+
+._62-822-9131-2064 {
+color: #636363;
+text-align: left;
+font-family: 'Poppins-SemiBold', sans-serif;
+font-size: 5px;
+font-weight: 600;
+margin-left: 5px;
+}
+
+
+
+.Skill {
+margin-top: 60px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+
+.skill0-1 {
+color: #000000;
+text-align: center;
+font-family: 'Poppins-ExtraBold', sans-serif;
+font-size: 10px;
+font-weight: 800;
+}
+
+.ui-ux-design {
+color: #000000;
+text-align: left;
+font-family: 'Poppins-SemiBold', sans-serif;
+font-size: 5px;
+font-weight: 600;
+margin-bottom: 0;
+padding-bottom: 0;
+}
+
+.skill-judul {
+display: flex;
+flex-direction: row;
+align-items: center;
+margin-bottom: 15px;
+}
+
+.strukjudulskill {
+height: 1.4px;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.skill-deskripsi {
+display: flex;
+flex-direction: row;
+align-items: start;
+}
+
+.UI-UX {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-left: 3px;
+margin-right: 3px;
+}
+
+
+.strkskillsdkrpsi {
+
+width: 50px;
+margin-top: 0;
+margin-bottom: 1px;
+}
+
+.imgdeskripsiskillicon {
+height: 15px;
+}
+
+.imgdeskripsiskill {
+height: 60px;
+}
+
+
+
+
+    
+    
+
+
+
+
+.portofoloO {
+    margin-top: 240px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.portofoloO1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.strukjudulportfolio1 {
+    height: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.BG-portooflio {
+    height: 535px;
+    position: absolute;
+    margin-top: 30px;
+    z-index: -5;
+}
+
+.judul-porfolio {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 10px;
+    font-weight: 800;
+}
+
+.portofoloO2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.portofoloO3 {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-top: 10px;
+}
+
+
+.freya {
+    z-index: 5;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: #fab833;
+    border-width: 3px;
+    height: 100px;
+    margin-left: 20px;
+}
+
+.freya1 {
+    z-index: 5;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: #fab833;
+    border-width: 3px;
+    height: 100px;
+    margin-left: 0px;
+}
+
+.SHOW-MORE-porto {
+    background: #fab833;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 2px;
+    width: 40px;
+    height: 15px;
+    position: absolute;
+    top: 635px;
+    left: 70px;
+}
+
+.SHOW-MORE-porto1 {
+    background: #fab833;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width:  2px;
+    width: 40px;
+    height: 15px;
+    position: absolute;
+    top: 877px;
+    left: 70px;
+}
+
+.SHOW-MORE-porto2 {
+    background: #fab833;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width:  2px;
+    width: 40px;
+    height: 15px;
+    position: absolute;
+    top: 755px;
+    left: 190px;
+}
+
+.SHOW-MORE-porto3 {
+    background: #fab833;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width:  2px;
+    width: 40px;
+    height: 15px;
+    position: absolute;
+    top: 998px;
+    left: 190px;
+}
+
+
+.SHOW-MORE-text {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 3px;
+    font-weight: 700;
+    position: relative;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, 1);
+}
+
+.BG-gif-porto {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 3px;
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    z-index: -1;
+    left: 32px;
+    top: 567px;
+}
+
+.BG-gif-porto1 {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 3px;
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    z-index: -1;
+    left: 205px;
+    top: 690px;
+}
+
+.BG-gif-porto2 {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 3px;
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    z-index: -1;
+    left: 32px;
+    top: 814px;
+}
+
+.BG-gif-porto3 {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 3px;
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    z-index: -1;
+    left: 205px;
+    top: 935px;
+}
+
+.struk-text-about {
+    width: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.font-porto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ui-ux-porto {
+    color: #000000;
+    text-align: center;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 7px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.font-UIUX-porto {
+    color: #000000;
+    text-align: center;
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 5px;
+    font-weight: 90;
+    width: 140px;
+    margin-bottom: 7px;
+    line-height: 5px;
+}
+
+.TAG-UIUX-port {
+    color: #000000;
+    text-align: center;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 5px;
+    font-weight: 100;
+    position: relative;
+    width: 130px;
+}
+
+
+
+
+
+.Contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+    justify-content: space-between;
+}
+
+.contact-up {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.contact-left {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-left: 10px;
+}
+
+.contact-judul {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 10px;
+    font-weight: 800;
+}
+
+.let-s-discuss-your-project {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 7px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.name-contact {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 5px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.input-name-contact {
+    background: #f4e5c6;
+    border-radius: 2px;
+    border-style: solid;
+    border-color: #fab833;
+    border-width: 0px 0px 2px 0px;
+    height: 15px;
+    width: 140px;
+    font-size: 5px;
+    font-family: 'Poppins-Light', sans-serif;
+    margin-bottom: 10px;
+}
+
+.input-name-contact::placeholder {
+    color: rgba(0, 0, 0, 0.43);
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 4px;
+    opacity: 0.5;
+    padding-left: 8px;
+}
+
+.Email-contact {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 5px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.input-email-contact {
+    background: #f4e5c6;
+    border-radius: 2px;
+    border-style: solid;
+    border-color: #fab833;
+    border-width: 0px 0px 2px 0px;
+    height: 15px;
+    width: 140px;
+    font-size: 5px;
+    font-family: 'Poppins-Light', sans-serif;
+    margin-bottom: 10px;
+}
+
+.input-email-contact::placeholder {
+    color: rgba(0, 0, 0, 0.43);
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 4px;
+    opacity: 0.5;
+    padding-left: 8px;
+}
+
+.Massage-contact {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 5px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.input-massage-contact {
+    background: #f4e5c6;
+    border-radius: 2px;
+    border-style: solid;
+    border-color: #fab833;
+    border-width: 0px 0px 2px 0px;
+    height: 25px;
+    width: 140px;
+    font-size: 5px;
+    font-family: 'Poppins-Light', sans-serif;
+    margin-bottom: 10px;
+}
+
+.input-massage-contact::placeholder {
+    color: rgba(0, 0, 0, 0.43);
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 4px;
+    opacity: 0.5;
+    padding-left: 8px;
+}
+
+.SEND-contact {
+    background: #fab833;
+    border-radius: 3px;
+    height: 15px;
+    width: 50px;
+    border: none;
+    margin: 0;
+    margin-left: 50px;
+
+}
+
+.send-contact-text {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Poppins-Bold', sans-serif;
+    font-size: 5px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.contact-posision {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 250px;
+}
+
+
+.BG-right-contact {
+    background: #ffac00;
+    width: 80px;
+    height: 180px;
+    position: absolute;
+    z-index: -2;
+    right: 0;
+    top: 1150px;
+    bottom: 0;
+}
+
+.BG-contact-right-up {
+    height: 140px;
+    position: absolute;
+    right: 0;
+    top: 1160px;
+    z-index: -1;
+}
+
+.contact-right {
+    margin-left: 15px;
+    margin-right: 0px;
+}
+
+.Contact-us {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Poppins-ExtraBold', sans-serif;
+    font-size: 6px;
+    font-weight: 800;
+    width: 60px;
+    height:20px;
+    margin-right: 0px;
+    margin-top: 35px;
+    margin-bottom: 0;
+}
+
+.phone-contact {
+    color: #fab833;
+    text-align: left;
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 5px;
+    font-weight: 600;
+    margin-right: 0;
+    width: 80px;
+    margin-bottom: 8px;
+}
+
+.namber {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 4px;
+    font-weight: 300;
+    margin-top: -7px;
+    width: 80px;
+    margin-right: 0;
+}
+
+.namber1 {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Poppins-Light', sans-serif;
+    font-size: 5px;
+    font-weight: 300;
+    margin-top: -6px;
+    width: 80px;
+    line-height: 5px;
+    margin-right: 0;
+}
+
+.more-info-contact {
+    color: #ffffff;
+    text-align: right;
+    font-family: 'Poppins-Medium', sans-serif;
+    font-size: 4px;
+    font-weight: 500;
+    width: 40px;
+    margin-top: 40px;
+    margin-bottom: 2px;
+    margin-right: 0;
+    }
+
+.IG-contact {
+    width: 10px;
+    height: 10px;
+}
+
+.YT-contact {
+    width: 10px;
+    height: 10px;
+}
+
+.TW-contact {
+    width: 10px;
+    height: 10px;
+}
+
+.icon-contact-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 10px;
+    width: 70px;
+    margin-top: 0px;
+    margin-left: 15px;
+}
+
+}
+
+
+
+
+        
+         
+    
+
